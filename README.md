@@ -1,0 +1,2 @@
+# paradigma_funcional_k2053
+Ejercicios Paradigma Funcional
